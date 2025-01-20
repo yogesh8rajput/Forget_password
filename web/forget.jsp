@@ -107,10 +107,7 @@ body {
                 <label for="email"  >Email</label>
                 <input type="email" id="email" name="gmail" placeholder="Enter Email" required>
             </div>
-            <div class="remember-me">
-                <input type="checkbox" id="remember" name="remember">
-                <label for="remember">Remember Me</label>
-            </div>
+           
             <button type="submit" class="submit-btn">Submit</button>
             <br><br>
              <div class="footer">
